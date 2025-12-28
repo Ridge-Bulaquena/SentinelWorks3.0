@@ -1,0 +1,7 @@
+{
+  "name": "SentinelWorks",
+  "description": "Enterprise-grade autonomous system for Accounting, Tax, Compliance, Risk & Business Survival Intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
